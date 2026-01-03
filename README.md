@@ -7,6 +7,7 @@ DC:jason960712
 EN:This is a recoil plugin for FIVEM. It can make your guns feel very responsive and noticeable with recoil.  
 This is a very simple plugin.  
 If you need to contact me, you can reach me via Gmail or Discord.  
+
 Gmail: Jason960712@gmail.com  
 Discord: jason960712
 
