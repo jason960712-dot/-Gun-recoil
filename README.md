@@ -9,3 +9,7 @@ This is a very simple plugin.
 If you need to contact me, you can reach me via Gmail or Discord.  
 Gmail: Jason960712@gmail.com  
 Discord: jason960712
+
+影片預覽:https://youtu.be/Awvp3X27d1U
+
+Video:https://youtu.be/Awvp3X27d1U
