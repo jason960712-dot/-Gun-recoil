@@ -1,1 +1,5 @@
 這是一個FIVEM的槍枝後座力插件 他可以壤你的槍枝感到很敏顯得後座力
+這是一個很簡單的插件 
+如果需要聯絡我可以用GMAIL或者DC
+GMAIL:Jason960712@gmail.com
+DC:jason960712
