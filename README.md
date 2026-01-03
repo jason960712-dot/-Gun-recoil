@@ -3,6 +3,7 @@ CN:這是一個FIVEM的槍枝後座力插件 他可以壤你的槍枝感到很�
 如果需要聯絡我可以用GMAIL或者DC
 GMAIL:Jason960712@gmail.com
 DC:jason960712
+
 EN:This is a recoil plugin for FIVEM. It can make your guns feel very responsive and noticeable with recoil.  
 This is a very simple plugin.  
 If you need to contact me, you can reach me via Gmail or Discord.  
